@@ -18,6 +18,7 @@ This website is done on PHP with the ability fro users to register and add a cla
 
 - User Registration and Login with OTP verification
 - Password encription
+- Input Field Validaion
 - Add / edit / delete classified adverts
 - Display classified Adverts
 - Picture uploads

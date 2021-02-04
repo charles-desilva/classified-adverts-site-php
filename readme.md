@@ -17,9 +17,9 @@ This website is done on PHP with the ability fro users to register and add a cla
 ## Screenshots
 
 ![Alt text](screenshots/login-form.jpg "Login Screen")
-![Alt text](screenshots/listing.jpg "List of classifieds")
-![Alt text](screenshots/car-listing-profile.png "Cheques Categorised")
-![Alt text](screenshots/newlisting.jpg "Reports")
+![Alt text](screenshots/car-listing.jpg "List of classifieds")
+![Alt text](screenshots/car-listing-profile.jpg "Cheques Categorised")
+![Alt text](screenshots/new-listing.jpg "Reports")
 ![Alt text](screenshots/multilanguage.jpg "Supporting Multi Language")
 
 ## Features

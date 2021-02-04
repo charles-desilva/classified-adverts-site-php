@@ -14,14 +14,6 @@
 
 This website is done on PHP with the ability fro users to register and add a classifed advertisement on their vehicles for sale.
 
-## Screenshots
-
-![Alt text](screenshots/login-form.jpg "Login Screen")
-![Alt text](screenshots/car-listing.jpg "List of classifieds")
-![Alt text](screenshots/car-listing-profile.jpg "Cheques Categorised")
-![Alt text](screenshots/new-listing.jpg "Reports")
-![Alt text](screenshots/multilanguage.jpg "Supporting Multi Language")
-
 ## Features
 
 - User Registration and Login with OTP verification
@@ -44,3 +36,11 @@ This website is done on PHP with the ability fro users to register and add a cla
 1. Host the files on a Server
 2. Import sql file (dbcarsale.sql) into database on server
 3. access index.php on hosted folder root
+
+## Screenshots
+
+![Alt text](screenshots/login-form.jpg "Login Screen")
+![Alt text](screenshots/car-listing.jpg "List of classifieds")
+![Alt text](screenshots/car-listing-profile.jpg "Cheques Categorised")
+![Alt text](screenshots/new-listing.jpg "Reports")
+![Alt text](screenshots/multilanguage.jpg "Supporting Multi Language")
